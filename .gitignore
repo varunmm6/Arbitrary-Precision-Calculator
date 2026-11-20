@@ -1,0 +1,13 @@
+
+# Compiled executable files
+a.out
+apc
+
+# Object files
+*.o
+
+# Debug files
+*.out
+
+# Backup files
+*~
